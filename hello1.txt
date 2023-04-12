@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello world!
 Hello world@@
+=======
+Hello worldls -l!
+Hello worldls!
+>>>>>>> a2737b5c54b92e739841e5565e4bf98faa2f8f13
