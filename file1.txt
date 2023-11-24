@@ -1,1 +1,4 @@
-ver1.2
+     UID     PID    PPID  TTY        STIME COMMAND
+   drpro    1730       1 ?        21:40:02 /usr/bin/mintty
+   drpro    2458    1731 pty0     23:51:38 /usr/bin/ps
+   drpro    1731    1730 pty0     21:40:02 /usr/bin/bash
